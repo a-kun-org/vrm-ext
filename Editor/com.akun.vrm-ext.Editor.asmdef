@@ -1,0 +1,33 @@
+{
+  "name": "com.akun.vrm-ext.Editor",
+  "rootNamespace": "Akun.VrmExt.Editor",
+  "references": [
+    "GUID:62ced99b048af7f4d8dfe4bed8373d76",
+    "GUID:fe747755f7b44e048820525b07f9b956",
+    "GUID:d5d89d583b7c4d33a0113ff128bf4dfa"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Newtonsoft.Json.dll"
+  ],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "nadena.dev.ndmf",
+      "expression": "1.6",
+      "define": "VRMEXT_HAS_NDMF"
+    },
+    {
+      "name": "com.github.hkrn.ndmf-vrm-exporter",
+      "expression": "1.4",
+      "define": "VRMEXT_HAS_NDMF_VRM_EXPORTER"
+    }
+  ],
+  "noEngineReferences": false
+}

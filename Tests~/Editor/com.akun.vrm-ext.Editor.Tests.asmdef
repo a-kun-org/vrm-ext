@@ -1,0 +1,29 @@
+{
+  "name": "com.akun.vrm-ext.Editor.Tests",
+  "rootNamespace": "Akun.VrmExt.Editor.Tests",
+  "references": [
+    "GUID:d5d89d583b7c4d33a0113ff128bf4dfa",
+    "GUID:6c4f222f10834eed880b10b4ef31444b",
+    "UnityEngine.TestRunner",
+    "UnityEditor.TestRunner"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "nunit.framework.dll",
+    "Newtonsoft.Json.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

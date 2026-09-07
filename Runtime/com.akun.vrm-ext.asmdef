@@ -1,0 +1,24 @@
+{
+  "name": "com.akun.vrm-ext",
+  "rootNamespace": "Akun.VrmExt",
+  "references": [
+    "GUID:fe747755f7b44e048820525b07f9b956"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Newtonsoft.Json.dll"
+  ],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "nadena.dev.ndmf",
+      "expression": "1.6",
+      "define": "VRMEXT_HAS_NDMF"
+    }
+  ],
+  "noEngineReferences": false
+}
