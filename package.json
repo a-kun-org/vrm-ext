@@ -1,0 +1,29 @@
+{
+  "name": "com.akun.vrm-ext",
+  "displayName": "VRM Ext",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "NDMF companion for ndmf-vrm-exporter that preserves original Unity material shader names and property bags as glTF material metadata (AKUN_materials_original).",
+  "author": {
+    "name": "a-kun-org",
+    "url": "https://github.com/a-kun-org"
+  },
+  "url": "https://github.com/a-kun-org/vrm-ext",
+  "license": "MIT",
+  "documentationUrl": "https://github.com/a-kun-org/vrm-ext#readme",
+  "changelogUrl": "https://github.com/a-kun-org/vrm-ext/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/a-kun-org/vrm-ext/blob/main/LICENSE",
+  "keywords": [
+    "vrm",
+    "gltf",
+    "ndmf",
+    "vrchat",
+    "materials"
+  ],
+  "vpmDependencies": {
+    "nadena.dev.ndmf": ">=1.6.0"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
