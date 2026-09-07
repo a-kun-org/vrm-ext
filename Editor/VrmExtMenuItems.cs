@@ -1,6 +1,7 @@
 #nullable enable
 using System;
 using System.IO;
+using Akun.VrmExt;
 using UnityEditor;
 using UnityEngine;
 

@@ -1,5 +1,6 @@
 #nullable enable
 using System.Collections.Generic;
+using Akun.VrmExt;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Rendering;

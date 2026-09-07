@@ -5,8 +5,7 @@
     "GUID:d5d89d583b7c4d33a0113ff128bf4dfa",
     "GUID:6c4f222f10834eed880b10b4ef31444b",
     "UnityEngine.TestRunner",
-    "UnityEditor.TestRunner",
-    "Unity.Nuget.Newtonsoft-Json"
+    "UnityEditor.TestRunner"
   ],
   "includePlatforms": [
     "Editor"
@@ -15,7 +14,8 @@
   "allowUnsafeCode": false,
   "overrideReferences": true,
   "precompiledReferences": [
-    "nunit.framework.dll"
+    "nunit.framework.dll",
+    "Newtonsoft.Json.dll"
   ],
   "autoReferenced": false,
   "defineConstraints": [

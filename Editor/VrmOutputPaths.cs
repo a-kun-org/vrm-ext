@@ -1,5 +1,6 @@
 #nullable enable
 using System.IO;
+using Akun.VrmExt;
 using UnityEngine;
 
 namespace Akun.VrmExt.Editor

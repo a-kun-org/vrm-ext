@@ -2,6 +2,7 @@
 #if VRMEXT_HAS_NDMF
 using System;
 using System.IO;
+using Akun.VrmExt;
 using nadena.dev.ndmf;
 
 namespace Akun.VrmExt.Editor

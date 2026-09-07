@@ -1,6 +1,5 @@
 #nullable enable
-using System;
-using System.Collections.Generic;
+using Akun.VrmExt;
 
 namespace Akun.VrmExt.Editor
 {

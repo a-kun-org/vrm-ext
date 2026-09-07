@@ -2,14 +2,15 @@
   "name": "com.akun.vrm-ext",
   "rootNamespace": "Akun.VrmExt",
   "references": [
-    "GUID:fe747755f7b44e048820525b07f9b956",
-    "Unity.Nuget.Newtonsoft-Json"
+    "GUID:fe747755f7b44e048820525b07f9b956"
   ],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
-  "overrideReferences": false,
-  "precompiledReferences": [],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "Newtonsoft.Json.dll"
+  ],
   "autoReferenced": true,
   "defineConstraints": [],
   "versionDefines": [

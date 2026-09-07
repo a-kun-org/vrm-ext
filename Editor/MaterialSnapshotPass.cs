@@ -1,6 +1,7 @@
 #nullable enable
 #if VRMEXT_HAS_NDMF
 using System.IO;
+using Akun.VrmExt;
 using nadena.dev.ndmf;
 using UnityEngine;
 
